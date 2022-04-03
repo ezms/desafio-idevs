@@ -46,7 +46,7 @@ O arquivo [DesafioDois.java](src/com/idevs/desafio/DesafioDois.java):<br>
 Escreva um algoritmo que mostre todos os números n menores que 10.000, onde n e n + 1 possuem o mesmo número de divisores.
 ```
 
-### 2️⃣ Questão 03
+### 3️⃣ Questão 03
 
 O arquivo [DesafioTres.java](src/com/idevs/desafio/DesafioTres.java):<br>
 
