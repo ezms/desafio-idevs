@@ -6,7 +6,7 @@
 
 ⭐ &nbsp; Programa desenvolvido para o processo seletivo IDevS<br>
 ⚙️ &nbsp; Lang: Java v11<br>
-📜 &nbsp; A aplicação possui 3 desafios divididos em arquivos com seus nome. Os desafios são:
+📜 &nbsp; A aplicação possui 3 desafios divididos em arquivos com seus nomes. Os desafios são:
 <br><br>
 
 ### 1️⃣ Questão 01
